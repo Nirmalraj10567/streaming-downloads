@@ -1,1 +1,1 @@
-worker: python3 start.py tstflask.py
+worker: python3  tstflask.py
