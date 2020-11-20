@@ -1,1 +1,1 @@
-worker: python3  tstflask.py
+web: gunicorn app:tstflask
